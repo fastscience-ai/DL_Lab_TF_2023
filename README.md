@@ -5,3 +5,5 @@ Then download proper installer for your OS  <br />
 ## install tensorflow2.0 and all dependencies <br />
 `conda env create --force --file environment.yml` <br />
 `source activate climate-ai` <br />
+## When we deactivate conda environments <br />
+`conda deactivate`

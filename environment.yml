@@ -1,4 +1,4 @@
-name: climate-ai
+name: aiai2022_day2
 channels:
   - defaults
   - conda-forge

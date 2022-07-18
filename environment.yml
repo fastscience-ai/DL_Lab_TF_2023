@@ -1,4 +1,4 @@
-name: aiai2022_day2
+name: aiai2022_soo
 channels:
   - defaults
   - conda-forge

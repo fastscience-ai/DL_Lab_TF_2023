@@ -4,11 +4,8 @@ Then download proper installer for your OS  <br />
 `bash [proper installer] ` <br />
 ## install tensorflow2.0 and all dependencies <br />
 `conda env create --force --file environment.yml` <br />
-<<<<<<< HEAD
 `source activate dl_lab` <br />
-=======
 `source activate dl_tutorial` <br />
->>>>>>> 7324ae5a47a81273ff76a71a6604cd5ae6e037db
 ## When we deactivate conda environments <br />
 `conda deactivate`
 ## Dataset <br />

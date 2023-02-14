@@ -1,4 +1,4 @@
-name: aiai2022_soo
+name: dl_lab
 channels:
   - defaults
   - conda-forge

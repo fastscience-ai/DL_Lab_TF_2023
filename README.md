@@ -4,7 +4,7 @@ Then download proper installer for your OS  <br />
 `bash [proper installer] ` <br />
 ## install tensorflow2.0 and all dependencies <br />
 `conda env create --force --file environment.yml` <br />
-`source activate aiai2022_soo` <br />
+`source activate dl_tutorial` <br />
 ## When we deactivate conda environments <br />
 `conda deactivate`
 ## Dataset <br />

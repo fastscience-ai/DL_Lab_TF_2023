@@ -13,5 +13,3 @@ Then download proper installer for your OS  <br />
 `https://drive.google.com/file/d/1gm0oD6N3puTgV_n0IOwEFTlbn37cvza3/view?usp=sharing`
 - Hurricane Dataset <br />
 `https://library.ucsd.edu/dc/object/bb94252168`
-## Lecture note <br />
-`https://drive.google.com/drive/folders/1_3ZO4dx4j3PSiU6x2PBb8tK43-4mDT43?usp=sharing`

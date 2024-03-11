@@ -3,8 +3,9 @@ Go to https://docs.conda.io/en/latest/miniconda.html <br />
 Then download proper installer for your OS  <br />
 `bash [proper installer] ` <br />
 ## install tensorflow2.0 and all dependencies <br />
-`conda env create --force --file environment.yml` <br />
-`source activate dl_lab` <br />
+`conda create  -n dl_lab tensorflow <br />
+`conda activate dl_lab` <br />
+`conda install pillow opencv scipy matplotlib scikit-image scikit-learn pandas jupyterlab numpy` <br />
 ## When we deactivate conda environments <br />
 `conda deactivate`
 ## Dataset <br />

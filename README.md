@@ -9,7 +9,7 @@ Then download proper installer for your OS  <br />
 ## Conda environment for the tensorflow transformer tutorial <br />
 `conda create -n transformer python==3.12` <br />
 `conda activate transformer` <br />
-`pip install jupyter lab`<br />
+`pip install jupyterlab`<br />
 ## When we deactivate conda environments <br />
 `conda deactivate`
 ## Dataset <br />

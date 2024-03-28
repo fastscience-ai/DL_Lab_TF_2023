@@ -7,7 +7,7 @@ Then download proper installer for your OS  <br />
 `conda install pillow opencv scipy matplotlib scikit-image scikit-learn pandas jupyterlab numpy` <br />
 `conda activate dl_lab` <br />
 ## Conda environment for the tensorflow transformer tutorial <br />
-`conda create -n transformer python==3.12` <br />
+`conda create -n transformer python==3.10` <br />
 `conda activate transformer` <br />
 `pip install jupyterlab`<br />
 ## When we deactivate conda environments <br />

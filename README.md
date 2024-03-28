@@ -4,10 +4,11 @@ Then download proper installer for your OS  <br />
 `bash [proper installer] ` <br />
 ## install tensorflow2.0 and all dependencies <br />
 `conda create  -n dl_lab tensorflow` <br />
+`conda install pillow opencv scipy matplotlib scikit-image scikit-learn pandas jupyterlab numpy` <br />
 `conda activate dl_lab` <br />
 ## Conda environment for the tensorflow transformer tutorial <br />
 `conda create -n transformer python==3.12` <br />
-`conda install pillow opencv scipy matplotlib scikit-image scikit-learn pandas jupyterlab numpy` <br />
+`conda activate transformer` <br />
 ## When we deactivate conda environments <br />
 `conda deactivate`
 ## Dataset <br />
